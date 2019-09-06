@@ -8,3 +8,5 @@ With "get_sayashi.ipynb", "get_sayumiipynb" and "get_karin.ipynb", we can get ph
 Sayashi_GAN.ipynb is to generate the faces with GAN(, but the generated faces are so ambiguas).
 
 I will keep on improving this program.
+
+[article](https://qiita.com/taro_murakami/items/0e670df0d831f26d2cf7)
